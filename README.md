@@ -12,3 +12,5 @@
  5. Open the serial monitor and wait for instructions.
  6. Open your web browser (e.g: Google Chrome) and set the address provided by the serial monitor in the browser address bar.
  7. Enjoy.
+ 
+ ![alt text](https://github.com/remidebord/MKR-1010-WiFi-RGB-LED/blob/main/wifi_rgb_led_example.jpg "Arduino MKR 1010 WiFi LED RGB exmaple screenshot")
